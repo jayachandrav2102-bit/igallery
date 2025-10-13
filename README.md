@@ -25,7 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 gallery.html
 
 <!DOCTYPE html>
@@ -52,7 +52,7 @@ gallery.html
   </script>
 </body>
 </html>
-
+```
 ## OUTPUT:
 
 ![Screenshot_13-10-2025_14842_](https://github.com/user-attachments/assets/8e80b2ab-2b76-4e0c-ade8-e5d0ab64c02b)
